@@ -1,0 +1,5 @@
+.bg-Background {
+  background: url('./assets/Images/BusBlur.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
